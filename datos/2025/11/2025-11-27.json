@@ -1,0 +1,1861 @@
+{
+    "fecha": "2025-11-27",
+    "lecturas": [
+        {
+            "id_lectura": 1,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:09:45",
+            "Temperatura": 26.7,
+            "Humedad": 41.0,
+            "Frecuencia_audio": null,
+            "Luz": "baja"
+        },
+        {
+            "id_lectura": 2,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:09:45",
+            "Temperatura": null,
+            "Humedad": null,
+            "Frecuencia_audio": 210.938,
+            "Luz": null
+        },
+        {
+            "id_lectura": 3,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:09:47",
+            "Temperatura": 26.7,
+            "Humedad": 40.0,
+            "Frecuencia_audio": null,
+            "Luz": "baja"
+        },
+        {
+            "id_lectura": 4,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:09:47",
+            "Temperatura": null,
+            "Humedad": null,
+            "Frecuencia_audio": 210.938,
+            "Luz": null
+        },
+        {
+            "id_lectura": 5,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:09:49",
+            "Temperatura": 26.7,
+            "Humedad": 40.0,
+            "Frecuencia_audio": null,
+            "Luz": "baja"
+        },
+        {
+            "id_lectura": 6,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:09:49",
+            "Temperatura": null,
+            "Humedad": null,
+            "Frecuencia_audio": 210.938,
+            "Luz": null
+        },
+        {
+            "id_lectura": 7,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:09:51",
+            "Temperatura": 26.7,
+            "Humedad": 40.0,
+            "Frecuencia_audio": null,
+            "Luz": "baja"
+        },
+        {
+            "id_lectura": 8,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:09:51",
+            "Temperatura": null,
+            "Humedad": null,
+            "Frecuencia_audio": 210.938,
+            "Luz": null
+        },
+        {
+            "id_lectura": 9,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:09:53",
+            "Temperatura": 26.7,
+            "Humedad": 40.0,
+            "Frecuencia_audio": null,
+            "Luz": "baja"
+        },
+        {
+            "id_lectura": 10,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:09:53",
+            "Temperatura": null,
+            "Humedad": null,
+            "Frecuencia_audio": 210.938,
+            "Luz": null
+        },
+        {
+            "id_lectura": 11,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:09:55",
+            "Temperatura": 26.7,
+            "Humedad": 40.0,
+            "Frecuencia_audio": null,
+            "Luz": "baja"
+        },
+        {
+            "id_lectura": 12,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:09:55",
+            "Temperatura": null,
+            "Humedad": null,
+            "Frecuencia_audio": 210.938,
+            "Luz": null
+        },
+        {
+            "id_lectura": 13,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:09:57",
+            "Temperatura": 26.7,
+            "Humedad": 40.0,
+            "Frecuencia_audio": null,
+            "Luz": "baja"
+        },
+        {
+            "id_lectura": 14,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:09:57",
+            "Temperatura": null,
+            "Humedad": null,
+            "Frecuencia_audio": 210.938,
+            "Luz": null
+        },
+        {
+            "id_lectura": 15,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:09:59",
+            "Temperatura": 26.7,
+            "Humedad": 40.0,
+            "Frecuencia_audio": null,
+            "Luz": "baja"
+        },
+        {
+            "id_lectura": 16,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:09:59",
+            "Temperatura": null,
+            "Humedad": null,
+            "Frecuencia_audio": 210.938,
+            "Luz": null
+        },
+        {
+            "id_lectura": 17,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:10:01",
+            "Temperatura": 26.7,
+            "Humedad": 40.0,
+            "Frecuencia_audio": null,
+            "Luz": "baja"
+        },
+        {
+            "id_lectura": 18,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:10:01",
+            "Temperatura": null,
+            "Humedad": null,
+            "Frecuencia_audio": 210.938,
+            "Luz": null
+        },
+        {
+            "id_lectura": 19,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:10:03",
+            "Temperatura": 26.7,
+            "Humedad": 40.0,
+            "Frecuencia_audio": null,
+            "Luz": "baja"
+        },
+        {
+            "id_lectura": 20,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:10:03",
+            "Temperatura": null,
+            "Humedad": null,
+            "Frecuencia_audio": 210.938,
+            "Luz": null
+        },
+        {
+            "id_lectura": 21,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:10:05",
+            "Temperatura": 26.7,
+            "Humedad": 40.0,
+            "Frecuencia_audio": null,
+            "Luz": "baja"
+        },
+        {
+            "id_lectura": 22,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:10:05",
+            "Temperatura": null,
+            "Humedad": null,
+            "Frecuencia_audio": 210.938,
+            "Luz": null
+        },
+        {
+            "id_lectura": 23,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:10:07",
+            "Temperatura": 26.7,
+            "Humedad": 41.0,
+            "Frecuencia_audio": null,
+            "Luz": "baja"
+        },
+        {
+            "id_lectura": 24,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:10:07",
+            "Temperatura": null,
+            "Humedad": null,
+            "Frecuencia_audio": 210.938,
+            "Luz": null
+        },
+        {
+            "id_lectura": 25,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:10:09",
+            "Temperatura": 26.7,
+            "Humedad": 41.0,
+            "Frecuencia_audio": null,
+            "Luz": "baja"
+        },
+        {
+            "id_lectura": 26,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:10:09",
+            "Temperatura": null,
+            "Humedad": null,
+            "Frecuencia_audio": 210.938,
+            "Luz": null
+        },
+        {
+            "id_lectura": 27,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:10:11",
+            "Temperatura": 26.7,
+            "Humedad": 41.0,
+            "Frecuencia_audio": null,
+            "Luz": "baja"
+        },
+        {
+            "id_lectura": 28,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:10:11",
+            "Temperatura": null,
+            "Humedad": null,
+            "Frecuencia_audio": 210.938,
+            "Luz": null
+        },
+        {
+            "id_lectura": 29,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:10:13",
+            "Temperatura": 26.7,
+            "Humedad": 41.0,
+            "Frecuencia_audio": null,
+            "Luz": "baja"
+        },
+        {
+            "id_lectura": 30,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:10:13",
+            "Temperatura": null,
+            "Humedad": null,
+            "Frecuencia_audio": 210.938,
+            "Luz": null
+        },
+        {
+            "id_lectura": 31,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:10:15",
+            "Temperatura": 26.7,
+            "Humedad": 41.0,
+            "Frecuencia_audio": null,
+            "Luz": "baja"
+        },
+        {
+            "id_lectura": 32,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:10:15",
+            "Temperatura": null,
+            "Humedad": null,
+            "Frecuencia_audio": 210.938,
+            "Luz": null
+        },
+        {
+            "id_lectura": 33,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:10:17",
+            "Temperatura": 26.7,
+            "Humedad": 41.0,
+            "Frecuencia_audio": null,
+            "Luz": "baja"
+        },
+        {
+            "id_lectura": 34,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:10:17",
+            "Temperatura": null,
+            "Humedad": null,
+            "Frecuencia_audio": 210.938,
+            "Luz": null
+        },
+        {
+            "id_lectura": 35,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:10:19",
+            "Temperatura": 26.7,
+            "Humedad": 41.0,
+            "Frecuencia_audio": null,
+            "Luz": "baja"
+        },
+        {
+            "id_lectura": 36,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:10:19",
+            "Temperatura": null,
+            "Humedad": null,
+            "Frecuencia_audio": 210.938,
+            "Luz": null
+        },
+        {
+            "id_lectura": 37,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:10:21",
+            "Temperatura": 26.7,
+            "Humedad": 41.0,
+            "Frecuencia_audio": null,
+            "Luz": "baja"
+        },
+        {
+            "id_lectura": 38,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:10:21",
+            "Temperatura": null,
+            "Humedad": null,
+            "Frecuencia_audio": 210.938,
+            "Luz": null
+        },
+        {
+            "id_lectura": 39,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:10:23",
+            "Temperatura": 26.7,
+            "Humedad": 41.0,
+            "Frecuencia_audio": null,
+            "Luz": "baja"
+        },
+        {
+            "id_lectura": 40,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:10:23",
+            "Temperatura": null,
+            "Humedad": null,
+            "Frecuencia_audio": 210.938,
+            "Luz": null
+        },
+        {
+            "id_lectura": 41,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:10:25",
+            "Temperatura": 26.7,
+            "Humedad": 41.0,
+            "Frecuencia_audio": null,
+            "Luz": "baja"
+        },
+        {
+            "id_lectura": 42,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:10:25",
+            "Temperatura": null,
+            "Humedad": null,
+            "Frecuencia_audio": 210.938,
+            "Luz": null
+        },
+        {
+            "id_lectura": 43,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:10:27",
+            "Temperatura": 26.7,
+            "Humedad": 41.0,
+            "Frecuencia_audio": null,
+            "Luz": "baja"
+        },
+        {
+            "id_lectura": 44,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:10:27",
+            "Temperatura": null,
+            "Humedad": null,
+            "Frecuencia_audio": 210.938,
+            "Luz": null
+        },
+        {
+            "id_lectura": 45,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:10:29",
+            "Temperatura": 26.7,
+            "Humedad": 41.0,
+            "Frecuencia_audio": null,
+            "Luz": "baja"
+        },
+        {
+            "id_lectura": 46,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:10:29",
+            "Temperatura": null,
+            "Humedad": null,
+            "Frecuencia_audio": 210.938,
+            "Luz": null
+        },
+        {
+            "id_lectura": 47,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:10:31",
+            "Temperatura": 26.7,
+            "Humedad": 41.0,
+            "Frecuencia_audio": null,
+            "Luz": "baja"
+        },
+        {
+            "id_lectura": 48,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:10:31",
+            "Temperatura": null,
+            "Humedad": null,
+            "Frecuencia_audio": 210.938,
+            "Luz": null
+        },
+        {
+            "id_lectura": 49,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:10:33",
+            "Temperatura": 26.7,
+            "Humedad": 41.0,
+            "Frecuencia_audio": null,
+            "Luz": "baja"
+        },
+        {
+            "id_lectura": 50,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:10:33",
+            "Temperatura": null,
+            "Humedad": null,
+            "Frecuencia_audio": 210.938,
+            "Luz": null
+        },
+        {
+            "id_lectura": 51,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:10:35",
+            "Temperatura": 26.7,
+            "Humedad": 41.0,
+            "Frecuencia_audio": null,
+            "Luz": "baja"
+        },
+        {
+            "id_lectura": 52,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:10:35",
+            "Temperatura": null,
+            "Humedad": null,
+            "Frecuencia_audio": 210.938,
+            "Luz": null
+        },
+        {
+            "id_lectura": 53,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:10:37",
+            "Temperatura": 26.7,
+            "Humedad": 41.0,
+            "Frecuencia_audio": null,
+            "Luz": "baja"
+        },
+        {
+            "id_lectura": 54,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:10:37",
+            "Temperatura": null,
+            "Humedad": null,
+            "Frecuencia_audio": 210.938,
+            "Luz": null
+        },
+        {
+            "id_lectura": 55,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:10:39",
+            "Temperatura": 26.7,
+            "Humedad": 41.0,
+            "Frecuencia_audio": null,
+            "Luz": "baja"
+        },
+        {
+            "id_lectura": 56,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:10:39",
+            "Temperatura": null,
+            "Humedad": null,
+            "Frecuencia_audio": 210.938,
+            "Luz": null
+        },
+        {
+            "id_lectura": 57,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:10:41",
+            "Temperatura": 26.7,
+            "Humedad": 41.0,
+            "Frecuencia_audio": null,
+            "Luz": "baja"
+        },
+        {
+            "id_lectura": 58,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:10:41",
+            "Temperatura": null,
+            "Humedad": null,
+            "Frecuencia_audio": 210.938,
+            "Luz": null
+        },
+        {
+            "id_lectura": 59,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:10:43",
+            "Temperatura": 26.7,
+            "Humedad": 41.0,
+            "Frecuencia_audio": null,
+            "Luz": "baja"
+        },
+        {
+            "id_lectura": 60,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:10:43",
+            "Temperatura": null,
+            "Humedad": null,
+            "Frecuencia_audio": 210.938,
+            "Luz": null
+        },
+        {
+            "id_lectura": 61,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:10:45",
+            "Temperatura": 26.7,
+            "Humedad": 41.0,
+            "Frecuencia_audio": null,
+            "Luz": "baja"
+        },
+        {
+            "id_lectura": 62,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:10:45",
+            "Temperatura": null,
+            "Humedad": null,
+            "Frecuencia_audio": 210.938,
+            "Luz": null
+        },
+        {
+            "id_lectura": 63,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:10:47",
+            "Temperatura": 26.7,
+            "Humedad": 41.0,
+            "Frecuencia_audio": null,
+            "Luz": "baja"
+        },
+        {
+            "id_lectura": 64,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:10:47",
+            "Temperatura": null,
+            "Humedad": null,
+            "Frecuencia_audio": 210.938,
+            "Luz": null
+        },
+        {
+            "id_lectura": 65,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:10:49",
+            "Temperatura": 26.7,
+            "Humedad": 41.0,
+            "Frecuencia_audio": null,
+            "Luz": "baja"
+        },
+        {
+            "id_lectura": 66,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:10:49",
+            "Temperatura": null,
+            "Humedad": null,
+            "Frecuencia_audio": 210.938,
+            "Luz": null
+        },
+        {
+            "id_lectura": 67,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:10:51",
+            "Temperatura": 26.7,
+            "Humedad": 41.0,
+            "Frecuencia_audio": null,
+            "Luz": "baja"
+        },
+        {
+            "id_lectura": 68,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:10:51",
+            "Temperatura": null,
+            "Humedad": null,
+            "Frecuencia_audio": 210.938,
+            "Luz": null
+        },
+        {
+            "id_lectura": 69,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:10:53",
+            "Temperatura": 26.7,
+            "Humedad": 41.0,
+            "Frecuencia_audio": null,
+            "Luz": "baja"
+        },
+        {
+            "id_lectura": 70,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:10:53",
+            "Temperatura": null,
+            "Humedad": null,
+            "Frecuencia_audio": 210.938,
+            "Luz": null
+        },
+        {
+            "id_lectura": 71,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:10:55",
+            "Temperatura": 26.7,
+            "Humedad": 41.0,
+            "Frecuencia_audio": null,
+            "Luz": "baja"
+        },
+        {
+            "id_lectura": 72,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:10:55",
+            "Temperatura": null,
+            "Humedad": null,
+            "Frecuencia_audio": 210.938,
+            "Luz": null
+        },
+        {
+            "id_lectura": 73,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:10:57",
+            "Temperatura": 26.7,
+            "Humedad": 41.0,
+            "Frecuencia_audio": null,
+            "Luz": "baja"
+        },
+        {
+            "id_lectura": 74,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:10:57",
+            "Temperatura": null,
+            "Humedad": null,
+            "Frecuencia_audio": 210.938,
+            "Luz": null
+        },
+        {
+            "id_lectura": 75,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:10:59",
+            "Temperatura": 26.7,
+            "Humedad": 41.0,
+            "Frecuencia_audio": null,
+            "Luz": "baja"
+        },
+        {
+            "id_lectura": 76,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:10:59",
+            "Temperatura": null,
+            "Humedad": null,
+            "Frecuencia_audio": 210.938,
+            "Luz": null
+        },
+        {
+            "id_lectura": 77,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:11:01",
+            "Temperatura": 26.7,
+            "Humedad": 41.0,
+            "Frecuencia_audio": null,
+            "Luz": "baja"
+        },
+        {
+            "id_lectura": 78,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:11:01",
+            "Temperatura": null,
+            "Humedad": null,
+            "Frecuencia_audio": 210.938,
+            "Luz": null
+        },
+        {
+            "id_lectura": 79,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:11:03",
+            "Temperatura": 26.7,
+            "Humedad": 41.0,
+            "Frecuencia_audio": null,
+            "Luz": "baja"
+        },
+        {
+            "id_lectura": 80,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:11:03",
+            "Temperatura": null,
+            "Humedad": null,
+            "Frecuencia_audio": 210.938,
+            "Luz": null
+        },
+        {
+            "id_lectura": 81,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:11:05",
+            "Temperatura": 26.7,
+            "Humedad": 41.0,
+            "Frecuencia_audio": null,
+            "Luz": "baja"
+        },
+        {
+            "id_lectura": 82,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:11:05",
+            "Temperatura": null,
+            "Humedad": null,
+            "Frecuencia_audio": 210.938,
+            "Luz": null
+        },
+        {
+            "id_lectura": 83,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:11:07",
+            "Temperatura": 26.7,
+            "Humedad": 41.0,
+            "Frecuencia_audio": null,
+            "Luz": "baja"
+        },
+        {
+            "id_lectura": 84,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:11:07",
+            "Temperatura": null,
+            "Humedad": null,
+            "Frecuencia_audio": 210.938,
+            "Luz": null
+        },
+        {
+            "id_lectura": 85,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:11:09",
+            "Temperatura": 26.7,
+            "Humedad": 41.0,
+            "Frecuencia_audio": null,
+            "Luz": "baja"
+        },
+        {
+            "id_lectura": 86,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:11:09",
+            "Temperatura": null,
+            "Humedad": null,
+            "Frecuencia_audio": 210.938,
+            "Luz": null
+        },
+        {
+            "id_lectura": 87,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:11:11",
+            "Temperatura": 26.7,
+            "Humedad": 41.0,
+            "Frecuencia_audio": null,
+            "Luz": "baja"
+        },
+        {
+            "id_lectura": 88,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:11:11",
+            "Temperatura": null,
+            "Humedad": null,
+            "Frecuencia_audio": 210.938,
+            "Luz": null
+        },
+        {
+            "id_lectura": 89,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:11:13",
+            "Temperatura": 26.7,
+            "Humedad": 40.0,
+            "Frecuencia_audio": null,
+            "Luz": "baja"
+        },
+        {
+            "id_lectura": 90,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:11:13",
+            "Temperatura": null,
+            "Humedad": null,
+            "Frecuencia_audio": 210.938,
+            "Luz": null
+        },
+        {
+            "id_lectura": 91,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:11:15",
+            "Temperatura": 26.7,
+            "Humedad": 40.0,
+            "Frecuencia_audio": null,
+            "Luz": "baja"
+        },
+        {
+            "id_lectura": 92,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:11:15",
+            "Temperatura": null,
+            "Humedad": null,
+            "Frecuencia_audio": 210.938,
+            "Luz": null
+        },
+        {
+            "id_lectura": 93,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:11:17",
+            "Temperatura": 26.7,
+            "Humedad": 41.0,
+            "Frecuencia_audio": null,
+            "Luz": "baja"
+        },
+        {
+            "id_lectura": 94,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:11:17",
+            "Temperatura": null,
+            "Humedad": null,
+            "Frecuencia_audio": 210.938,
+            "Luz": null
+        },
+        {
+            "id_lectura": 95,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:11:19",
+            "Temperatura": 26.7,
+            "Humedad": 40.0,
+            "Frecuencia_audio": null,
+            "Luz": "baja"
+        },
+        {
+            "id_lectura": 96,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:11:19",
+            "Temperatura": null,
+            "Humedad": null,
+            "Frecuencia_audio": 210.938,
+            "Luz": null
+        },
+        {
+            "id_lectura": 97,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:11:21",
+            "Temperatura": 26.7,
+            "Humedad": 40.0,
+            "Frecuencia_audio": null,
+            "Luz": "baja"
+        },
+        {
+            "id_lectura": 98,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:11:21",
+            "Temperatura": null,
+            "Humedad": null,
+            "Frecuencia_audio": 210.938,
+            "Luz": null
+        },
+        {
+            "id_lectura": 99,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:11:23",
+            "Temperatura": 26.7,
+            "Humedad": 40.0,
+            "Frecuencia_audio": null,
+            "Luz": "baja"
+        },
+        {
+            "id_lectura": 100,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:11:23",
+            "Temperatura": null,
+            "Humedad": null,
+            "Frecuencia_audio": 210.938,
+            "Luz": null
+        },
+        {
+            "id_lectura": 101,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:11:25",
+            "Temperatura": 26.7,
+            "Humedad": 40.0,
+            "Frecuencia_audio": null,
+            "Luz": "baja"
+        },
+        {
+            "id_lectura": 102,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:11:25",
+            "Temperatura": null,
+            "Humedad": null,
+            "Frecuencia_audio": 210.938,
+            "Luz": null
+        },
+        {
+            "id_lectura": 103,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:11:27",
+            "Temperatura": 26.7,
+            "Humedad": 40.0,
+            "Frecuencia_audio": null,
+            "Luz": "baja"
+        },
+        {
+            "id_lectura": 104,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:11:27",
+            "Temperatura": null,
+            "Humedad": null,
+            "Frecuencia_audio": 210.938,
+            "Luz": null
+        },
+        {
+            "id_lectura": 105,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:11:29",
+            "Temperatura": 26.7,
+            "Humedad": 40.0,
+            "Frecuencia_audio": null,
+            "Luz": "baja"
+        },
+        {
+            "id_lectura": 106,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:11:29",
+            "Temperatura": null,
+            "Humedad": null,
+            "Frecuencia_audio": 210.938,
+            "Luz": null
+        },
+        {
+            "id_lectura": 107,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:11:31",
+            "Temperatura": 26.7,
+            "Humedad": 40.0,
+            "Frecuencia_audio": null,
+            "Luz": "baja"
+        },
+        {
+            "id_lectura": 108,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:11:31",
+            "Temperatura": null,
+            "Humedad": null,
+            "Frecuencia_audio": 210.938,
+            "Luz": null
+        },
+        {
+            "id_lectura": 109,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:11:33",
+            "Temperatura": 26.7,
+            "Humedad": 40.0,
+            "Frecuencia_audio": null,
+            "Luz": "baja"
+        },
+        {
+            "id_lectura": 110,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:11:33",
+            "Temperatura": null,
+            "Humedad": null,
+            "Frecuencia_audio": 210.938,
+            "Luz": null
+        },
+        {
+            "id_lectura": 111,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:11:35",
+            "Temperatura": 26.7,
+            "Humedad": 40.0,
+            "Frecuencia_audio": null,
+            "Luz": "baja"
+        },
+        {
+            "id_lectura": 112,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:11:35",
+            "Temperatura": null,
+            "Humedad": null,
+            "Frecuencia_audio": 210.938,
+            "Luz": null
+        },
+        {
+            "id_lectura": 113,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:11:37",
+            "Temperatura": 26.7,
+            "Humedad": 40.0,
+            "Frecuencia_audio": null,
+            "Luz": "baja"
+        },
+        {
+            "id_lectura": 114,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:11:37",
+            "Temperatura": null,
+            "Humedad": null,
+            "Frecuencia_audio": 210.938,
+            "Luz": null
+        },
+        {
+            "id_lectura": 115,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:11:39",
+            "Temperatura": 26.7,
+            "Humedad": 40.0,
+            "Frecuencia_audio": null,
+            "Luz": "baja"
+        },
+        {
+            "id_lectura": 116,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:11:39",
+            "Temperatura": null,
+            "Humedad": null,
+            "Frecuencia_audio": 210.938,
+            "Luz": null
+        },
+        {
+            "id_lectura": 117,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:11:41",
+            "Temperatura": 26.7,
+            "Humedad": 40.0,
+            "Frecuencia_audio": null,
+            "Luz": "baja"
+        },
+        {
+            "id_lectura": 118,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:11:41",
+            "Temperatura": null,
+            "Humedad": null,
+            "Frecuencia_audio": 210.938,
+            "Luz": null
+        },
+        {
+            "id_lectura": 119,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:11:43",
+            "Temperatura": 26.7,
+            "Humedad": 40.0,
+            "Frecuencia_audio": null,
+            "Luz": "baja"
+        },
+        {
+            "id_lectura": 120,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:11:43",
+            "Temperatura": null,
+            "Humedad": null,
+            "Frecuencia_audio": 210.938,
+            "Luz": null
+        },
+        {
+            "id_lectura": 121,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:11:45",
+            "Temperatura": 26.7,
+            "Humedad": 40.0,
+            "Frecuencia_audio": null,
+            "Luz": "baja"
+        },
+        {
+            "id_lectura": 122,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:11:45",
+            "Temperatura": null,
+            "Humedad": null,
+            "Frecuencia_audio": 210.938,
+            "Luz": null
+        },
+        {
+            "id_lectura": 123,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:11:47",
+            "Temperatura": 26.7,
+            "Humedad": 40.0,
+            "Frecuencia_audio": null,
+            "Luz": "baja"
+        },
+        {
+            "id_lectura": 124,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:11:47",
+            "Temperatura": null,
+            "Humedad": null,
+            "Frecuencia_audio": 210.938,
+            "Luz": null
+        },
+        {
+            "id_lectura": 125,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:11:49",
+            "Temperatura": 26.7,
+            "Humedad": 40.0,
+            "Frecuencia_audio": null,
+            "Luz": "baja"
+        },
+        {
+            "id_lectura": 126,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:11:49",
+            "Temperatura": null,
+            "Humedad": null,
+            "Frecuencia_audio": 210.938,
+            "Luz": null
+        },
+        {
+            "id_lectura": 127,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:11:51",
+            "Temperatura": 26.7,
+            "Humedad": 40.0,
+            "Frecuencia_audio": null,
+            "Luz": "baja"
+        },
+        {
+            "id_lectura": 128,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:11:51",
+            "Temperatura": null,
+            "Humedad": null,
+            "Frecuencia_audio": 210.938,
+            "Luz": null
+        },
+        {
+            "id_lectura": 129,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:11:53",
+            "Temperatura": 26.7,
+            "Humedad": 40.0,
+            "Frecuencia_audio": null,
+            "Luz": "baja"
+        },
+        {
+            "id_lectura": 130,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:11:53",
+            "Temperatura": null,
+            "Humedad": null,
+            "Frecuencia_audio": 210.938,
+            "Luz": null
+        },
+        {
+            "id_lectura": 131,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:11:55",
+            "Temperatura": 26.7,
+            "Humedad": 41.0,
+            "Frecuencia_audio": null,
+            "Luz": "baja"
+        },
+        {
+            "id_lectura": 132,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:11:55",
+            "Temperatura": null,
+            "Humedad": null,
+            "Frecuencia_audio": 210.938,
+            "Luz": null
+        },
+        {
+            "id_lectura": 133,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:11:57",
+            "Temperatura": 26.7,
+            "Humedad": 41.0,
+            "Frecuencia_audio": null,
+            "Luz": "baja"
+        },
+        {
+            "id_lectura": 134,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:11:57",
+            "Temperatura": null,
+            "Humedad": null,
+            "Frecuencia_audio": 1980.47,
+            "Luz": null
+        },
+        {
+            "id_lectura": 135,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:11:59",
+            "Temperatura": 26.7,
+            "Humedad": 41.0,
+            "Frecuencia_audio": null,
+            "Luz": "baja"
+        },
+        {
+            "id_lectura": 136,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:11:59",
+            "Temperatura": null,
+            "Humedad": null,
+            "Frecuencia_audio": 210.938,
+            "Luz": null
+        },
+        {
+            "id_lectura": 137,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:12:01",
+            "Temperatura": 26.7,
+            "Humedad": 41.0,
+            "Frecuencia_audio": null,
+            "Luz": "baja"
+        },
+        {
+            "id_lectura": 138,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:12:01",
+            "Temperatura": null,
+            "Humedad": null,
+            "Frecuencia_audio": 210.938,
+            "Luz": null
+        },
+        {
+            "id_lectura": 139,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:12:03",
+            "Temperatura": 26.7,
+            "Humedad": 41.0,
+            "Frecuencia_audio": null,
+            "Luz": "baja"
+        },
+        {
+            "id_lectura": 140,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:12:03",
+            "Temperatura": null,
+            "Humedad": null,
+            "Frecuencia_audio": 210.938,
+            "Luz": null
+        },
+        {
+            "id_lectura": 141,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:12:05",
+            "Temperatura": 26.7,
+            "Humedad": 41.0,
+            "Frecuencia_audio": null,
+            "Luz": "baja"
+        },
+        {
+            "id_lectura": 142,
+            "id_dispositivo": 1,
+            "Timestamp": "2025-11-27 21:12:05",
+            "Temperatura": null,
+            "Humedad": null,
+            "Frecuencia_audio": 925.781,
+            "Luz": null
+        }
+    ],
+    "niveles_riesgo": [
+        {
+            "id_nivelriesgo": 1,
+            "id_dispositivo": 1,
+            "Puntuacion": 2.66667,
+            "Nivel_detectado": "alto",
+            "Vegetacion": "Con vegetaci\u00f3n",
+            "Estacion": "Lluviosa"
+        },
+        {
+            "id_nivelriesgo": 2,
+            "id_dispositivo": 1,
+            "Puntuacion": 2.66667,
+            "Nivel_detectado": "alto",
+            "Vegetacion": "Con vegetaci\u00f3n",
+            "Estacion": "Lluviosa"
+        },
+        {
+            "id_nivelriesgo": 3,
+            "id_dispositivo": 1,
+            "Puntuacion": 2.66667,
+            "Nivel_detectado": "alto",
+            "Vegetacion": "Con vegetaci\u00f3n",
+            "Estacion": "Lluviosa"
+        },
+        {
+            "id_nivelriesgo": 4,
+            "id_dispositivo": 1,
+            "Puntuacion": 2.66667,
+            "Nivel_detectado": "alto",
+            "Vegetacion": "Con vegetaci\u00f3n",
+            "Estacion": "Lluviosa"
+        },
+        {
+            "id_nivelriesgo": 5,
+            "id_dispositivo": 1,
+            "Puntuacion": 2.66667,
+            "Nivel_detectado": "alto",
+            "Vegetacion": "Con vegetaci\u00f3n",
+            "Estacion": "Lluviosa"
+        },
+        {
+            "id_nivelriesgo": 6,
+            "id_dispositivo": 1,
+            "Puntuacion": 2.66667,
+            "Nivel_detectado": "alto",
+            "Vegetacion": "Con vegetaci\u00f3n",
+            "Estacion": "Lluviosa"
+        },
+        {
+            "id_nivelriesgo": 7,
+            "id_dispositivo": 1,
+            "Puntuacion": 2.66667,
+            "Nivel_detectado": "alto",
+            "Vegetacion": "Con vegetaci\u00f3n",
+            "Estacion": "Lluviosa"
+        },
+        {
+            "id_nivelriesgo": 8,
+            "id_dispositivo": 1,
+            "Puntuacion": 2.66667,
+            "Nivel_detectado": "alto",
+            "Vegetacion": "Con vegetaci\u00f3n",
+            "Estacion": "Lluviosa"
+        },
+        {
+            "id_nivelriesgo": 9,
+            "id_dispositivo": 1,
+            "Puntuacion": 2.66667,
+            "Nivel_detectado": "alto",
+            "Vegetacion": "Con vegetaci\u00f3n",
+            "Estacion": "Lluviosa"
+        },
+        {
+            "id_nivelriesgo": 10,
+            "id_dispositivo": 1,
+            "Puntuacion": 2.66667,
+            "Nivel_detectado": "alto",
+            "Vegetacion": "Con vegetaci\u00f3n",
+            "Estacion": "Lluviosa"
+        },
+        {
+            "id_nivelriesgo": 11,
+            "id_dispositivo": 1,
+            "Puntuacion": 2.66667,
+            "Nivel_detectado": "alto",
+            "Vegetacion": "Con vegetaci\u00f3n",
+            "Estacion": "Lluviosa"
+        },
+        {
+            "id_nivelriesgo": 12,
+            "id_dispositivo": 1,
+            "Puntuacion": 2.66667,
+            "Nivel_detectado": "alto",
+            "Vegetacion": "Con vegetaci\u00f3n",
+            "Estacion": "Lluviosa"
+        },
+        {
+            "id_nivelriesgo": 13,
+            "id_dispositivo": 1,
+            "Puntuacion": 2.66667,
+            "Nivel_detectado": "alto",
+            "Vegetacion": "Con vegetaci\u00f3n",
+            "Estacion": "Lluviosa"
+        },
+        {
+            "id_nivelriesgo": 14,
+            "id_dispositivo": 1,
+            "Puntuacion": 2.66667,
+            "Nivel_detectado": "alto",
+            "Vegetacion": "Con vegetaci\u00f3n",
+            "Estacion": "Lluviosa"
+        },
+        {
+            "id_nivelriesgo": 15,
+            "id_dispositivo": 1,
+            "Puntuacion": 2.66667,
+            "Nivel_detectado": "alto",
+            "Vegetacion": "Con vegetaci\u00f3n",
+            "Estacion": "Lluviosa"
+        },
+        {
+            "id_nivelriesgo": 16,
+            "id_dispositivo": 1,
+            "Puntuacion": 2.66667,
+            "Nivel_detectado": "alto",
+            "Vegetacion": "Con vegetaci\u00f3n",
+            "Estacion": "Lluviosa"
+        },
+        {
+            "id_nivelriesgo": 17,
+            "id_dispositivo": 1,
+            "Puntuacion": 2.66667,
+            "Nivel_detectado": "alto",
+            "Vegetacion": "Con vegetaci\u00f3n",
+            "Estacion": "Lluviosa"
+        },
+        {
+            "id_nivelriesgo": 18,
+            "id_dispositivo": 1,
+            "Puntuacion": 2.66667,
+            "Nivel_detectado": "alto",
+            "Vegetacion": "Con vegetaci\u00f3n",
+            "Estacion": "Lluviosa"
+        },
+        {
+            "id_nivelriesgo": 19,
+            "id_dispositivo": 1,
+            "Puntuacion": 2.66667,
+            "Nivel_detectado": "alto",
+            "Vegetacion": "Con vegetaci\u00f3n",
+            "Estacion": "Lluviosa"
+        },
+        {
+            "id_nivelriesgo": 20,
+            "id_dispositivo": 1,
+            "Puntuacion": 2.66667,
+            "Nivel_detectado": "alto",
+            "Vegetacion": "Con vegetaci\u00f3n",
+            "Estacion": "Lluviosa"
+        },
+        {
+            "id_nivelriesgo": 21,
+            "id_dispositivo": 1,
+            "Puntuacion": 2.66667,
+            "Nivel_detectado": "alto",
+            "Vegetacion": "Con vegetaci\u00f3n",
+            "Estacion": "Lluviosa"
+        },
+        {
+            "id_nivelriesgo": 22,
+            "id_dispositivo": 1,
+            "Puntuacion": 2.66667,
+            "Nivel_detectado": "alto",
+            "Vegetacion": "Con vegetaci\u00f3n",
+            "Estacion": "Lluviosa"
+        },
+        {
+            "id_nivelriesgo": 23,
+            "id_dispositivo": 1,
+            "Puntuacion": 2.66667,
+            "Nivel_detectado": "alto",
+            "Vegetacion": "Con vegetaci\u00f3n",
+            "Estacion": "Lluviosa"
+        },
+        {
+            "id_nivelriesgo": 24,
+            "id_dispositivo": 1,
+            "Puntuacion": 2.66667,
+            "Nivel_detectado": "alto",
+            "Vegetacion": "Con vegetaci\u00f3n",
+            "Estacion": "Lluviosa"
+        },
+        {
+            "id_nivelriesgo": 25,
+            "id_dispositivo": 1,
+            "Puntuacion": 2.66667,
+            "Nivel_detectado": "alto",
+            "Vegetacion": "Con vegetaci\u00f3n",
+            "Estacion": "Lluviosa"
+        },
+        {
+            "id_nivelriesgo": 26,
+            "id_dispositivo": 1,
+            "Puntuacion": 2.66667,
+            "Nivel_detectado": "alto",
+            "Vegetacion": "Con vegetaci\u00f3n",
+            "Estacion": "Lluviosa"
+        },
+        {
+            "id_nivelriesgo": 27,
+            "id_dispositivo": 1,
+            "Puntuacion": 2.66667,
+            "Nivel_detectado": "alto",
+            "Vegetacion": "Con vegetaci\u00f3n",
+            "Estacion": "Lluviosa"
+        },
+        {
+            "id_nivelriesgo": 28,
+            "id_dispositivo": 1,
+            "Puntuacion": 2.66667,
+            "Nivel_detectado": "alto",
+            "Vegetacion": "Con vegetaci\u00f3n",
+            "Estacion": "Lluviosa"
+        },
+        {
+            "id_nivelriesgo": 29,
+            "id_dispositivo": 1,
+            "Puntuacion": 2.66667,
+            "Nivel_detectado": "alto",
+            "Vegetacion": "Con vegetaci\u00f3n",
+            "Estacion": "Lluviosa"
+        },
+        {
+            "id_nivelriesgo": 30,
+            "id_dispositivo": 1,
+            "Puntuacion": 2.66667,
+            "Nivel_detectado": "alto",
+            "Vegetacion": "Con vegetaci\u00f3n",
+            "Estacion": "Lluviosa"
+        },
+        {
+            "id_nivelriesgo": 31,
+            "id_dispositivo": 1,
+            "Puntuacion": 2.66667,
+            "Nivel_detectado": "alto",
+            "Vegetacion": "Con vegetaci\u00f3n",
+            "Estacion": "Lluviosa"
+        },
+        {
+            "id_nivelriesgo": 32,
+            "id_dispositivo": 1,
+            "Puntuacion": 2.66667,
+            "Nivel_detectado": "alto",
+            "Vegetacion": "Con vegetaci\u00f3n",
+            "Estacion": "Lluviosa"
+        },
+        {
+            "id_nivelriesgo": 33,
+            "id_dispositivo": 1,
+            "Puntuacion": 2.66667,
+            "Nivel_detectado": "alto",
+            "Vegetacion": "Con vegetaci\u00f3n",
+            "Estacion": "Lluviosa"
+        },
+        {
+            "id_nivelriesgo": 34,
+            "id_dispositivo": 1,
+            "Puntuacion": 2.66667,
+            "Nivel_detectado": "alto",
+            "Vegetacion": "Con vegetaci\u00f3n",
+            "Estacion": "Lluviosa"
+        },
+        {
+            "id_nivelriesgo": 35,
+            "id_dispositivo": 1,
+            "Puntuacion": 2.66667,
+            "Nivel_detectado": "alto",
+            "Vegetacion": "Con vegetaci\u00f3n",
+            "Estacion": "Lluviosa"
+        },
+        {
+            "id_nivelriesgo": 36,
+            "id_dispositivo": 1,
+            "Puntuacion": 2.66667,
+            "Nivel_detectado": "alto",
+            "Vegetacion": "Con vegetaci\u00f3n",
+            "Estacion": "Lluviosa"
+        },
+        {
+            "id_nivelriesgo": 37,
+            "id_dispositivo": 1,
+            "Puntuacion": 2.66667,
+            "Nivel_detectado": "alto",
+            "Vegetacion": "Con vegetaci\u00f3n",
+            "Estacion": "Lluviosa"
+        },
+        {
+            "id_nivelriesgo": 38,
+            "id_dispositivo": 1,
+            "Puntuacion": 2.66667,
+            "Nivel_detectado": "alto",
+            "Vegetacion": "Con vegetaci\u00f3n",
+            "Estacion": "Lluviosa"
+        },
+        {
+            "id_nivelriesgo": 39,
+            "id_dispositivo": 1,
+            "Puntuacion": 2.66667,
+            "Nivel_detectado": "alto",
+            "Vegetacion": "Con vegetaci\u00f3n",
+            "Estacion": "Lluviosa"
+        },
+        {
+            "id_nivelriesgo": 40,
+            "id_dispositivo": 1,
+            "Puntuacion": 2.66667,
+            "Nivel_detectado": "alto",
+            "Vegetacion": "Con vegetaci\u00f3n",
+            "Estacion": "Lluviosa"
+        },
+        {
+            "id_nivelriesgo": 41,
+            "id_dispositivo": 1,
+            "Puntuacion": 2.66667,
+            "Nivel_detectado": "alto",
+            "Vegetacion": "Con vegetaci\u00f3n",
+            "Estacion": "Lluviosa"
+        },
+        {
+            "id_nivelriesgo": 42,
+            "id_dispositivo": 1,
+            "Puntuacion": 2.66667,
+            "Nivel_detectado": "alto",
+            "Vegetacion": "Con vegetaci\u00f3n",
+            "Estacion": "Lluviosa"
+        },
+        {
+            "id_nivelriesgo": 43,
+            "id_dispositivo": 1,
+            "Puntuacion": 2.66667,
+            "Nivel_detectado": "alto",
+            "Vegetacion": "Con vegetaci\u00f3n",
+            "Estacion": "Lluviosa"
+        },
+        {
+            "id_nivelriesgo": 44,
+            "id_dispositivo": 1,
+            "Puntuacion": 2.66667,
+            "Nivel_detectado": "alto",
+            "Vegetacion": "Con vegetaci\u00f3n",
+            "Estacion": "Lluviosa"
+        },
+        {
+            "id_nivelriesgo": 45,
+            "id_dispositivo": 1,
+            "Puntuacion": 2.66667,
+            "Nivel_detectado": "alto",
+            "Vegetacion": "Con vegetaci\u00f3n",
+            "Estacion": "Lluviosa"
+        },
+        {
+            "id_nivelriesgo": 46,
+            "id_dispositivo": 1,
+            "Puntuacion": 2.66667,
+            "Nivel_detectado": "alto",
+            "Vegetacion": "Con vegetaci\u00f3n",
+            "Estacion": "Lluviosa"
+        },
+        {
+            "id_nivelriesgo": 47,
+            "id_dispositivo": 1,
+            "Puntuacion": 2.66667,
+            "Nivel_detectado": "alto",
+            "Vegetacion": "Con vegetaci\u00f3n",
+            "Estacion": "Lluviosa"
+        },
+        {
+            "id_nivelriesgo": 48,
+            "id_dispositivo": 1,
+            "Puntuacion": 2.66667,
+            "Nivel_detectado": "alto",
+            "Vegetacion": "Con vegetaci\u00f3n",
+            "Estacion": "Lluviosa"
+        },
+        {
+            "id_nivelriesgo": 49,
+            "id_dispositivo": 1,
+            "Puntuacion": 2.66667,
+            "Nivel_detectado": "alto",
+            "Vegetacion": "Con vegetaci\u00f3n",
+            "Estacion": "Lluviosa"
+        },
+        {
+            "id_nivelriesgo": 50,
+            "id_dispositivo": 1,
+            "Puntuacion": 2.66667,
+            "Nivel_detectado": "alto",
+            "Vegetacion": "Con vegetaci\u00f3n",
+            "Estacion": "Lluviosa"
+        },
+        {
+            "id_nivelriesgo": 51,
+            "id_dispositivo": 1,
+            "Puntuacion": 2.66667,
+            "Nivel_detectado": "alto",
+            "Vegetacion": "Con vegetaci\u00f3n",
+            "Estacion": "Lluviosa"
+        },
+        {
+            "id_nivelriesgo": 52,
+            "id_dispositivo": 1,
+            "Puntuacion": 2.66667,
+            "Nivel_detectado": "alto",
+            "Vegetacion": "Con vegetaci\u00f3n",
+            "Estacion": "Lluviosa"
+        },
+        {
+            "id_nivelriesgo": 53,
+            "id_dispositivo": 1,
+            "Puntuacion": 2.66667,
+            "Nivel_detectado": "alto",
+            "Vegetacion": "Con vegetaci\u00f3n",
+            "Estacion": "Lluviosa"
+        },
+        {
+            "id_nivelriesgo": 54,
+            "id_dispositivo": 1,
+            "Puntuacion": 2.66667,
+            "Nivel_detectado": "alto",
+            "Vegetacion": "Con vegetaci\u00f3n",
+            "Estacion": "Lluviosa"
+        },
+        {
+            "id_nivelriesgo": 55,
+            "id_dispositivo": 1,
+            "Puntuacion": 2.66667,
+            "Nivel_detectado": "alto",
+            "Vegetacion": "Con vegetaci\u00f3n",
+            "Estacion": "Lluviosa"
+        },
+        {
+            "id_nivelriesgo": 56,
+            "id_dispositivo": 1,
+            "Puntuacion": 2.66667,
+            "Nivel_detectado": "alto",
+            "Vegetacion": "Con vegetaci\u00f3n",
+            "Estacion": "Lluviosa"
+        },
+        {
+            "id_nivelriesgo": 57,
+            "id_dispositivo": 1,
+            "Puntuacion": 2.66667,
+            "Nivel_detectado": "alto",
+            "Vegetacion": "Con vegetaci\u00f3n",
+            "Estacion": "Lluviosa"
+        },
+        {
+            "id_nivelriesgo": 58,
+            "id_dispositivo": 1,
+            "Puntuacion": 2.66667,
+            "Nivel_detectado": "alto",
+            "Vegetacion": "Con vegetaci\u00f3n",
+            "Estacion": "Lluviosa"
+        },
+        {
+            "id_nivelriesgo": 59,
+            "id_dispositivo": 1,
+            "Puntuacion": 2.66667,
+            "Nivel_detectado": "alto",
+            "Vegetacion": "Con vegetaci\u00f3n",
+            "Estacion": "Lluviosa"
+        },
+        {
+            "id_nivelriesgo": 60,
+            "id_dispositivo": 1,
+            "Puntuacion": 2.66667,
+            "Nivel_detectado": "alto",
+            "Vegetacion": "Con vegetaci\u00f3n",
+            "Estacion": "Lluviosa"
+        },
+        {
+            "id_nivelriesgo": 61,
+            "id_dispositivo": 1,
+            "Puntuacion": 2.66667,
+            "Nivel_detectado": "alto",
+            "Vegetacion": "Con vegetaci\u00f3n",
+            "Estacion": "Lluviosa"
+        },
+        {
+            "id_nivelriesgo": 62,
+            "id_dispositivo": 1,
+            "Puntuacion": 2.66667,
+            "Nivel_detectado": "alto",
+            "Vegetacion": "Con vegetaci\u00f3n",
+            "Estacion": "Lluviosa"
+        },
+        {
+            "id_nivelriesgo": 63,
+            "id_dispositivo": 1,
+            "Puntuacion": 2.66667,
+            "Nivel_detectado": "alto",
+            "Vegetacion": "Con vegetaci\u00f3n",
+            "Estacion": "Lluviosa"
+        },
+        {
+            "id_nivelriesgo": 64,
+            "id_dispositivo": 1,
+            "Puntuacion": 2.66667,
+            "Nivel_detectado": "alto",
+            "Vegetacion": "Con vegetaci\u00f3n",
+            "Estacion": "Lluviosa"
+        },
+        {
+            "id_nivelriesgo": 65,
+            "id_dispositivo": 1,
+            "Puntuacion": 2.66667,
+            "Nivel_detectado": "alto",
+            "Vegetacion": "Con vegetaci\u00f3n",
+            "Estacion": "Lluviosa"
+        },
+        {
+            "id_nivelriesgo": 66,
+            "id_dispositivo": 1,
+            "Puntuacion": 2.66667,
+            "Nivel_detectado": "alto",
+            "Vegetacion": "Con vegetaci\u00f3n",
+            "Estacion": "Lluviosa"
+        },
+        {
+            "id_nivelriesgo": 67,
+            "id_dispositivo": 1,
+            "Puntuacion": 2.66667,
+            "Nivel_detectado": "alto",
+            "Vegetacion": "Con vegetaci\u00f3n",
+            "Estacion": "Lluviosa"
+        },
+        {
+            "id_nivelriesgo": 68,
+            "id_dispositivo": 1,
+            "Puntuacion": 2.66667,
+            "Nivel_detectado": "alto",
+            "Vegetacion": "Con vegetaci\u00f3n",
+            "Estacion": "Lluviosa"
+        },
+        {
+            "id_nivelriesgo": 69,
+            "id_dispositivo": 1,
+            "Puntuacion": 2.66667,
+            "Nivel_detectado": "alto",
+            "Vegetacion": "Con vegetaci\u00f3n",
+            "Estacion": "Lluviosa"
+        },
+        {
+            "id_nivelriesgo": 70,
+            "id_dispositivo": 1,
+            "Puntuacion": 2.66667,
+            "Nivel_detectado": "alto",
+            "Vegetacion": "Con vegetaci\u00f3n",
+            "Estacion": "Lluviosa"
+        }
+    ],
+    "fumigaciones": [
+        {
+            "id_fumigaciones": 1,
+            "id_dispositivo": 1,
+            "id_nivelriesgo": 5,
+            "Timestamp_inicio": "2025-11-27 21:09:54",
+            "Duracion": 10
+        },
+        {
+            "id_fumigaciones": 2,
+            "id_dispositivo": 1,
+            "id_nivelriesgo": 46,
+            "Timestamp_inicio": "2025-11-27 21:11:16",
+            "Duracion": 10
+        }
+    ]
+}
